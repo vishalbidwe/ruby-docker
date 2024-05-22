@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg" height="68"></img> 
+  <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" height="68"> </img> 
+    <img src="https://www.docker.com/wp-content/uploads/2023/05/banner_2.0s-docker-compose-980x538.png" height="68"> </img> 
+</p>
+
 ## Containerizing and Running a Ruby Application
 
 This repo walks you through containerizing and running a Ruby application.
