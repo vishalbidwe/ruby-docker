@@ -1,5 +1,7 @@
 services:
-  web:
-    build: .
+  rb-server-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
     ports:
-      - "443:8080"
+      - 443:8080
